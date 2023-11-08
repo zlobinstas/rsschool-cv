@@ -11,14 +11,14 @@ me to quickly adapt to new things. I find inspiration in developing web apps.
 
 ### Work experience
 
-Mar 2023 - present
+_Mar 2023 - present_
 
 **Assist pilot operator in processing samples of textile materials**
 Compagnia Nazionale Italiana, Zanè (VI), Italy
 Manufacturing of materials (fabrics, leather, paper) for the creation of sales
 books and sample cases for important fashion and furniture brands
 
-Feb 2022 - Oct 2022
+_Feb 2022 - Oct 2022_
 
 **Project Manager**
 Procter&Gamble Gillette, Saint-Petersburg, Russia
@@ -27,7 +27,7 @@ management of the entire process of developing project specifications.
 Collaborations with suppliers, stakeholders and project teams.
 Simultaneously management of five different projects
 
-May 2021 - Feb 2022
+_May 2021 - Feb 2022_
 
 **Non-destructive testing engineer**
 Lenmontage, Saint-Petersburg, Russia
@@ -39,14 +39,14 @@ penetrant inspection and magnetic-analysis inspection
 
 ### Education
 
-2019 - 2021
+_2019 - 2021_
 
 **Master’s Degree in Technical diagnostic of gas and oil
 transportation systems**
 Saint-Petersburg Mining university, Saint Petersburg, Russia
 Grade: Red diploma (First class with distinction)
 
-2015 – 2019
+_2015 – 2019_
 
 **Bachelor’s Degree in Operation and maintenance of transport and
 storage systems for oil, gas and refined products**
@@ -57,7 +57,7 @@ Grade: Red diploma (First class with distinction)
 
 ### Advanced training and courses
 
-Nov 2022
+_Nov 2022_
 
 **Nov 2022 Agile Project Management. Training course (40 hours)**
 
@@ -67,7 +67,7 @@ Agile PM and Scrum theory. Scrum team roles. How to manage Product
 
 Backlog and develop user stories
 
-Aug 2021
+_Aug 2021_
 
 **Advanced training in the field of non-destructive testing by methods of visual-measuring control, ultrasonic wave control, penetrating control and magnetic control (Level 2)**
 
