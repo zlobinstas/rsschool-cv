@@ -52,3 +52,43 @@ Grade: Red diploma (First class with distinction)
 storage systems for oil, gas and refined products**
 Tomsk Polytechnic University, Tomsk, Russia
 Grade: Red diploma (First class with distinction)
+
+***
+
+### Advanced training and courses
+
+Nov 2022
+
+**Nov 2022 Agile Project Management. Training course (40 hours)**
+
+Google Coursera
+
+Agile PM and Scrum theory. Scrum team roles. How to manage Product
+
+Backlog and develop user stories
+
+Aug 2021
+
+**Advanced training in the field of non-destructive testing by methods of visual-measuring control, ultrasonic wave control, penetrating control and magnetic control (Level 2)**
+
+Regional Certification Center, Saint-Petersburg, Russia
+
+### Language skills
+
+Russian - Native
+
+English, Italian - Intermediate
+
+### Digital skills
+
+- I have experience in working with HTML, CSS, and JavaScript. As part of my projects, I have created an interactive online zoo, an online piano and an online photo editor with filter overlay capabilities;
+- I have skills in data analysis, visualization and programming, with a focus on Python and SQL databases;
+- I have a basic knowledge of Adobe programmes (Photoshop, Figma, Illustrator);
+- I am highly familiar with Microsoft office (Word, Excel, PowerPoint, Outlook, Teams).
+
+### Other experiences and personal interests
+
+- I was the captain of the geologist club team in Tomsk, twice I lead my team to win the Russia and the CIS countries’ Young Geologists Olympiads;
+- I enjoy studying new technologies, reading news, as well as playing strategic and team-based computer games;
+- I conduct an active lifestyle that includes travelling, playing padel, swimming and photography;
+- I have communication skills that help me to easily talk with people about various areas of interest.
