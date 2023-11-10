@@ -2,6 +2,7 @@
 **Date of birth:** 15.04.1997<br>
 **Tel.:** +39-351-685-4628<br>
 **Email:** zlobinstanislav@outlook.com<br>
+My <a href ="https://github.com/zlobinstas" target="_blank">Git</a> account
 
 I am a goal-oriented individual with an analytical mindset and attention to
 detail. I continuously engage in self-learning across various areas, which allows
